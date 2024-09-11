@@ -18,7 +18,7 @@ This project demonstrates a complex integration of Groq API, Gradio for UI, and 
 
 1. **Clone the Repository**
 
-git clone https://github.com/yourusername/yourrepository.git cd yourrepository
+git clone https://github.com/theshivam2203/Grdio_Groq_Chatbot.git cd yourrepository
 
 
 2. **Install Dependencies**
